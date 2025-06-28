@@ -14,6 +14,11 @@ A simple Python-based voice assistant that can recognize your voice commands and
 
 ---
 
-## 🚀 How does it work
+## 🎬 Demo Video
 
-Demo video: ![video](https://drive.google.com/file/d/1WQ3wZB3d-00E-lqU2sva8mO5p-eG4CEA/view?usp=sharing)
+Click below to watch a demo of the Voice Assistant in action:
+
+[![Watch Demo](https://img.icons8.com/ios-filled/100/000000/circled-play.png)](https://drive.google.com/file/d/1WQ3wZB3d-00E-lqU2sva8mO5p-eG4CEA/view?usp=sharing)
+
+▶️ [Watch the NIKI Voice Assistant Demo]([YOUR_DIRECT_VIDEO_LINK_HERE](https://drive.google.com/file/d/1WQ3wZB3d-00E-lqU2sva8mO5p-eG4CEA/view?usp=sharing))
+
