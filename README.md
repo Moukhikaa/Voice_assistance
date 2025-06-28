@@ -16,4 +16,4 @@ A simple Python-based voice assistant that can recognize your voice commands and
 
 ## 🚀 How does it work
 
-Demo video: [video](demo.mp4)
+Demo video: ![video](demo.mp4)
