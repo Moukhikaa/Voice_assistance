@@ -38,8 +38,6 @@ Click below to watch a demo of the Voice Assistant in action:
 ## 🙋‍♀️ Made By
 
 made by     
-      [Moukhika](https://www.linkedin.com/in/moukhika01/) and
-[Srisanth](https://www.linkedin.com/in/srisanth-pediredla/)
-
+     [Srisanth](https://github.com/Srisanth-Pediredla) and [Moukhika](https://github.com/Moukhikaa) 
 
 
