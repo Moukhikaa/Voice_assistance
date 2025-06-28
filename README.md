@@ -37,7 +37,6 @@ Click below to watch a demo of the Voice Assistant in action:
 
 ## 🙋‍♀️ Made By
 
-made by     
-     [Srisanth](https://github.com/Srisanth-Pediredla) and [Moukhika](https://github.com/Moukhikaa) 
+   [Srisanth](https://github.com/Srisanth-Pediredla) & [Moukhika](https://github.com/Moukhikaa) 
 
 
