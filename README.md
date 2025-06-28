@@ -20,5 +20,5 @@ Click below to watch a demo of the Voice Assistant in action:
 
 [![Watch Demo](https://img.icons8.com/ios-filled/100/000000/circled-play.png)](https://drive.google.com/file/d/1WQ3wZB3d-00E-lqU2sva8mO5p-eG4CEA/view?usp=sharing)
 
-▶️ [Watch the NIKI Voice Assistant Demo]([YOUR_DIRECT_VIDEO_LINK_HERE](https://drive.google.com/file/d/1WQ3wZB3d-00E-lqU2sva8mO5p-eG4CEA/view?usp=sharing))
+▶️ [Watch the Voice Assistant Demo](https://drive.google.com/file/d/1WQ3wZB3d-00E-lqU2sva8mO5p-eG4CEA/view?usp=sharing)
 
